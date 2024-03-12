@@ -1,11 +1,58 @@
-# transcend
+# FT_Trascendence
 
-📆 **Calendario de Proyectos:** Mantente al día con todas las actualizaciones y fechas importantes de nuestro proyecto. ¡Consulta nuestro calendario aquí! <https://calendar.google.com/calendar/embed?src=d2dc491fbc1715c61a03dcd3c4dac33de8969a04cf317bb0e8dd5042751535d0%40group.calendar.google.com&ctz=Europe%2FMadrid>
+Welcome to the FT_Trascendence project! This project focuses on creating a multiplayer online game server and client using network programming and real-time communication techniques. By implementing this project, you'll gain a deeper understanding of networking, game development, and server-client architecture.
 
-🌐 **Gestión Ágil:** Sigue el progreso y las tareas pendientes en nuestro tablero Jira. ¡Colabora y mantente informado! <https://transc42.atlassian.net/jira/software/projects/SCRUM/boards/1>
+## Table of Contents
 
-💻 **Código Fuente:** Explora y contribuye al código fuente del proyecto en GitHub. ¡Tu aporte es valioso! <https://github.com/andresmejiaro/transcend>
+1. [Introduction](#introduction)
+2. [Usage](#usage)
+3. [Features](#features)
+4. [Building](#building)
+5. [Contributing](#contributing)
+6. [Credits](#credits)
 
-🎧 **Comunidad y Soporte:** Únete a nuestra comunidad en Discord para discutir ideas, obtener ayuda y conectar con otros entusiastas. <https://discord.gg/tRpk2jN8>
+## Introduction
 
-🚀 **¡Estamos en marcha!** Mantente conectado y participa activamente en el desarrollo de nuestro innovador proyecto de software. ¡Juntos estamos creando algo extraordinario!**
+FT_Trascendence is a multiplayer online game inspired by classic arcade games like Pong and Breakout. It allows multiple players to compete against each other in real-time matches, where they control paddles or other game elements to deflect balls or projectiles and score points. The game server handles matchmaking, game logic, and communication between clients.
+
+## Usage
+
+To use FT_Trascendence, follow these steps:
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/adrgonza/ft_trascendence.git
+    ```
+
+2. Build the server and client executables:
+
+    ```bash
+    make
+    ```
+
+3. Play the game and enjoy multiplayer matches with other players!
+
+## Features
+
+FT_Trascendence supports the following features:
+
+- Real-time multiplayer gameplay
+- Matchmaking and lobby system
+- Player authentication and identification
+- Dynamic game environments and power-ups
+- Customizable game settings and controls
+- Leaderboards and statistics tracking
+
+## Building
+
+To build FT_Trascendence, simply run:
+
+```bash
+make
+```
+## Contributing
+Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request on GitHub.
+
+## Credits
+This project was created by adrgonza for the libft project at 42Madrid.
