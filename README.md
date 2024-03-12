@@ -30,8 +30,9 @@ To use FT_Trascendence, follow these steps:
     ```bash
     make
     ```
+3. Now open in your browser https://localhost:3000
 
-3. Play the game and enjoy multiplayer matches with other players!
+4. Play the game and enjoy multiplayer matches with other players!
 
 ## Features
 
