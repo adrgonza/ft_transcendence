@@ -13,7 +13,7 @@ Welcome to the FT_Trascendence project! This project focuses on creating a multi
 
 ## Introduction
 
-https://github.com/adrgonza/ft_transcendence/assets/105714518/22c9f1c8-32ca-4f55-bfd4-010b6e118d87
+https://github.com/adrgonza/ft_transcendence/assets/ft_trascendence_test.mov
 
 FT_Trascendence is a multiplayer online game inspired by classic arcade games like Pong and Breakout. It allows multiple players to compete against each other in real-time matches, where they control paddles or other game elements to deflect balls or projectiles and score points. The game server handles matchmaking, game logic, and communication between clients.
 
